@@ -217,7 +217,12 @@ color: #9F9F9F;
 
 .item {
     text-align: left;
+    background: #F8F8F8;
     
+}
+
+.item_image {
+    width: 100%
 }
 
 .heading_item {
@@ -233,6 +238,15 @@ padding-left: 18px;
 line-height: 17px;
 padding-left: 16px;
 color: #5D5D5D;
+
+}
+
+.price {
+    font-size: 16px;
+line-height: 19px;
+color: #F16D7F;
+padding-top: 18px;
+    padding-left: 16px;
 
 }
 
@@ -306,7 +320,7 @@ padding-top: 16px;
 }
 
 .footer_image {
-    ;
+    
 }
 
 .face {
