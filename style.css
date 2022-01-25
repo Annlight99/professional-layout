@@ -338,6 +338,41 @@ left: 230px;
     position: absolute;
     padding-top: 150px;
     padding-left: 813px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 167.2%;
+}
+
+.input-group {
+   display: flex;
+   padding-top: 32px;
+   
+}
+
+.form-control {
+    height: 49px;
+    background: #E1E1E1;
+    font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+color: #222224;
+opacity: 0.67;
+width: 322px;
+
+}
+
+.button {
+    background: #E05C6E;
+    height: 53px;  
+    font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+width: 130px;
+
 }
 
 .bottom {
